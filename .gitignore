@@ -1,0 +1,25 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Environment files
+.env
+
+# Django-specific
+db.sqlite3
+*.log
+
+# Static and media files
+/staticfiles/
+/media/
+
+# Node modules (if you're using npm/yarn)
+node_modules/
+
+# Virtual environment
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
